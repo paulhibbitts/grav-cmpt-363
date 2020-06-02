@@ -12,7 +12,7 @@ published: true
 
 ### Important Reminders
 
-* [Usability Inspection Assignment](https://canvas.sfu.ca/courses/53207/assignments/457116)[badge label="Jun 15th 11:59pm PDT"]  
+* [Usability Inspection Assignment](https://canvas.sfu.ca/courses/53207/assignments/457116) [badge label="Jun 15th 11:59pm PDT"]  
 * Usability Inspection Assignment Peer Reviews [badge label="Jun 17th - 21st"]  
 
 ### Required Readings & One-Minute Summaries
