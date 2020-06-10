@@ -25,4 +25,4 @@ page-inject:
 <hr>
 
 **80's Flashback Friday**  
-[Talking Heads - And She Was](https://www.youtube.com/watch?v=cl3B_FTDKD0)
+[Prince & The Revolution - Raspberry Beret](https://www.youtube.com/watch?v=l7vRSu_wsNc)

@@ -38,7 +38,7 @@ Special Topics
 TBD
 
 [Week 11 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTbPvVfqn7_quv4FiJ1JqQP7d0_g0B-Xt9H5fiKpn7EtTTucgfvxnoTjj_sulPv5oRkYu0oG1VNkvqd/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-11)
-<div class="grav-youtube"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbPvVfqn7_quv4FiJ1JqQP7d0_g0B-Xt9H5fiKpn7EtTTucgfvxnoTjj_sulPv5oRkYu0oG1VNkvqd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="grav-youtube"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFB6MJQNCYV5gK6IJSF6tkHQfn4r2ATAqmC5Ll4nIVBjEi9tExVAATF-TzeXDqLeDnSEhzWj6yB_Im/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/what-is-the-practice-of-systems-oriented-design/social-design)

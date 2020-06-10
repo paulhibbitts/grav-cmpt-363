@@ -90,8 +90,8 @@ anchors:
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-3?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/53207/assignments)[badge label="May Jul 8th 11:59pm PDT"]  
-[fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-09)  
+[fa icon="keyboard-o"][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/53207/assignments)[badge label="May Jul 8th 11:59pm PDT"]  
+[fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-08)  
 
 ## [[fa icon="calendar-o"]Week 9 (Jul 4 - 10)](../home/week-09)
 **Instructor discovery research and exploratory storyboards meetings**  

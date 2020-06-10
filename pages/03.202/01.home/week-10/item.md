@@ -41,7 +41,7 @@ hide_git_sync_repo_link: true
 <div class="grav-youtube"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtAfOU30i28zaqCkNS62AVa21Kh2nZGo_J1G4oXdzqV4suKzTvRthQoD4JIh0Vr1siXTB0UxClAmEe/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 [Week 10 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTbPvVfqn7_quv4FiJ1JqQP7d0_g0B-Xt9H5fiKpn7EtTTucgfvxnoTjj_sulPv5oRkYu0oG1VNkvqd/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10)
-<div class="grav-youtube"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbPvVfqn7_quv4FiJ1JqQP7d0_g0B-Xt9H5fiKpn7EtTTucgfvxnoTjj_sulPv5oRkYu0oG1VNkvqd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="grav-youtube"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSlcx0_6wH_i25kRpRuo018safH7EzloDJf_mUcH3Ab5x74i47afjO0KRSHAerzrJZeb0pAcFcZQy1b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  

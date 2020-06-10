@@ -8,9 +8,13 @@ hide_git_sync_repo_link: true
 
 Instructor discovery research and exploratory storyboards meetings, no regularly scheduled Blackboard Collaborate sessions.  
 
+Zoom group meetings tentatively schedule between 12noon and 5:00PM PST Jul 7th - 9th.
+
 ===
 
 Instructor discovery research and exploratory storyboards meetings, no regularly scheduled Blackboard Collaborate sessions.
+
+Zoom group meetings tentatively schedule between 12noon and 5:00PM PST Jul 7th - 9th.
 
 ### Suggested Readings  
 [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  
