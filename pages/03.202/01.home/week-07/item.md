@@ -2,7 +2,7 @@
 title: 'Week 7 (Jun 20 - 26)'
 published: true
 date: '20-06-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -12,7 +12,6 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-07-3?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-07-4?template=partials/embedlycardlinkonly)  
 
 ===
 
@@ -22,7 +21,6 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-07-1)  
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-07-2)  
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-07-3)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-07-4)  
 
 ### Weekly Quiz
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-07)  
@@ -34,7 +32,6 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-07-3?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-07-4?template=partials/embedlycardlinkonly)
 
 ### BlackBoard Collaborate Session Slides
 [User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTD1T1sBFXCKgUf2qGXhfQCso5ERbskoX8hr76bWZsZ6RM6pkdaMb6IvFHwI-0h-4lz94meHc6avxMX/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07)

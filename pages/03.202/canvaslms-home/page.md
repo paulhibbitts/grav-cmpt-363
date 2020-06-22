@@ -25,4 +25,4 @@ page-inject:
 <hr>
 
 **80's Flashback Friday**  
-[Prince & The Revolution - Raspberry Beret](https://www.youtube.com/watch?v=l7vRSu_wsNc)
+[Pet Shop Boys - Always On My Mind](https://www.youtube.com/watch?v=wDe60CbIagg)

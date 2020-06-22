@@ -21,6 +21,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-06-1)  
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-06-2)  
 [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-06-3)  
+[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-06-4)  
 
 ### Weekly Quiz
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-06)  
@@ -29,6 +30,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../weekly-readings/week-06-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-06-2?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-06-3?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](../../weekly-readings/week-06-4?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTD1T1sBFXCKgUf2qGXhfQCso5ERbskoX8hr76bWZsZ6RM6pkdaMb6IvFHwI-0h-4lz94meHc6avxMX/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-06)
