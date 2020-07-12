@@ -25,4 +25,4 @@ page-inject:
 <hr>
 
 **80's Flashback Friday**  
-[Pet Shop Boys - Always On My Mind](https://www.youtube.com/watch?v=wDe60CbIagg)
+[The Cure - Just Like Heaven](https://www.youtube.com/watch?v=q2aBn-QuPVw)

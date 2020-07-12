@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Jul 15th 11:59pm PDT'
 link_text: 'Typography Tutorial - 10 rules to help you rule type, a Video'
-link_url: 'https://www.youtube.com/watch?v=QrNi9FmdlxY'
+link_url: 'https://canvas.sfu.ca/courses/53207/discussion_topics/1045544'
 ---

@@ -31,12 +31,10 @@ Fridays 12:00-12:30pm PDT
 [/columns]
 
 ## Looking Ahead to Next Week
+### Week 11 Live Blackboard Collaborate Sessions
+* Mini-lectures and Activities Tue Jul 21st 2:30pm PDT  (Guest speaker Dr. Parmit Chilana)  	
+* [plugin:page-inject](../../blackboard-sessions/week-11-2)  
 
-### Week 8 Live Blackboard Collaborate Sessions
-* [plugin:page-inject](../../blackboard-sessions/week-08-1)  
-* [plugin:page-inject](../../blackboard-sessions/week-08-2)  
-
-### Week 8 Required Readings and One-Minute Summaries
-* [plugin:page-inject](../../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](../../weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](../../weekly-readings/week-08-3?template=partials/embedlycardlinkonly)   
+### Week 11 Required Readings and One-Minute Summaries
+* [plugin:page-inject](../../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  	
+* [plugin:page-inject](../../weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  	
