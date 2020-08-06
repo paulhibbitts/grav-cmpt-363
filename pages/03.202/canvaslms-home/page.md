@@ -25,4 +25,4 @@ page-inject:
 <hr>
 
 **80's Flashback Friday**  
-[The Cure - Just Like Heaven](https://www.youtube.com/watch?v=q2aBn-QuPVw)
+[A Flock Of Seagulls - Space Age Love Song](https://www.youtube.com/watch?v=gOK3rqVgN2I)

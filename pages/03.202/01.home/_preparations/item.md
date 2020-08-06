@@ -1,11 +1,11 @@
 ---
 title: 'Preparations'
 published: true
-header_image: false
-header_image_file: /202/home/week-03/
+header_image: true
+header_image_file: /202/home/_preparations
 ---
 
-## Online Office Hours this Week
+## Online Office Hours (Until Aug 12th)
 
 [columns]
 
@@ -30,11 +30,13 @@ Fridays 12:00-12:30pm PDT
 
 [/columns]
 
-## Looking Ahead to Next Week
-### Week 11 Live Blackboard Collaborate Sessions
-* Mini-lectures and Activities Tue Jul 21st 2:30pm PDT  (Guest speaker Dr. Parmit Chilana)  	
-* [plugin:page-inject](../../blackboard-sessions/week-11-2)  
+## Looking Ahead to the Final Exam
 
-### Week 11 Required Readings and One-Minute Summaries
-* [plugin:page-inject](../../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  	
-* [plugin:page-inject](../../weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  	
+* [Online Final Exam](https://canvas.sfu.ca/courses/53207/quizzes) Aug 21st 12:00pm - 3:00pm PDT
+* Do a [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
+* Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
+* Write your answers in a word processing app and then paste them into Quiz answer fields
+* During the exam you can post questions in the [Final Exam Clarifications](https://canvas.sfu.ca/courses/53207/discussion_topics/1045560) discussion
+* Only press the **Submit button once** when you have completed the Quiz
+
+Have a question about the Final Exam after classes have ended? Post your question in the [Final Exam Q&A](https://canvas.sfu.ca/courses/53207/discussion_topics/1045578) forum.
