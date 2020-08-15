@@ -95,8 +95,8 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 
 ## [fa icon="calendar-o"]Week 11 (Nov 14 - 20)
 **[What are the essentials of visual interface design?](https://canvas.sfu.ca/courses/53207/modules/items/1457110)**  
-[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/53207/assignments/457113) [badge label="Dec 10th 11:59pm PDT"]  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 11th 11:59pm PDT"]  
+[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/53207/assignments/457113) [badge label="Dec 8th 11:59pm PDT"]  
+[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 9th 11:59pm PDT"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  

@@ -19,6 +19,6 @@ Is this your first fully online course? If so, you might find these articles mig
 
 * [Adapting to COVID-19](https://covid19.bccampus.ca/)
 
-Weekly course materials will be posted here by Saturday of each week. After the first week,  one-minute summaries are due on Wednesday each week, and weekly review quizzes are due on Friday.
+Weekly course materials will be posted here by Saturday of each week. After the first week,  one-minute summaries are due on Wednesday each week, and weekly review quizzes are due on Friday. Major assignments are usually due on Mondays.
 
 ===

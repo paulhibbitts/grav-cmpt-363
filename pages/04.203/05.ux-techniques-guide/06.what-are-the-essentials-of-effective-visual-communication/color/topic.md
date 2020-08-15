@@ -5,6 +5,7 @@ title: 'Color'
 Color  
 _Aspects of an object described in terms of hue, lightness, and saturation._
 
+*   [A Simple Web Developer’s Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)  
 *   [Color - Usability Matters](http://colormatters.com/color-and-design/color-and-usability-matters)  
 *   [Color Basics: Dos and Dont's](http://www.colourlovers.com/blog/2009/06/02/color-basics-dos-and-donts)  
 *   [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)  

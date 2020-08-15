@@ -30,3 +30,4 @@ hide_git_sync_repo_link: true
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  
 [plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/color)  
+[plugin:content-inject](../../ux-techniques-guide/what-are-the-essentials-of-effective-visual-communication/color-tools)  

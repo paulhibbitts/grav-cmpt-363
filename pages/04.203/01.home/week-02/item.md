@@ -42,7 +42,9 @@ hide_git_sync_repo_link: true
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/agile-ux)  
 [plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/design-ethics)  
-[plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/hypothesis)  
 [plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/lean-ux)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-the-practice-of-multidevice-interaction-design/problem-statements)  
 [plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/scenario-based-design)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/usability)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-centered-design)   
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-experience-design)  

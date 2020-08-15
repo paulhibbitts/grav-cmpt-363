@@ -19,14 +19,14 @@ content:
 modular_content:
     items: '@self.modular'
     order:
-        by: folder
+        by: title
         dir: dsc
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
     'twitter:title': 'CMPT-363 User Interface Design'
     'twitter:description': 'The Course Hub for CMPT 363 User Interface Design at Simon Fraser University'
-    'twitter:image': 'https://paulhibbitts.net/cmpt-363/202/headerimage/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg'
+    'twitter:image': 'https://opencoursehub.cs.sfu.ca/paulh/cmpt-363/203/headerimage/melisa-hildt-aV2uMw3zfwQ-unsplash.jpg'
 feed:
     limit: 10
     description: 'The Course Hub for CMPT 363 User Interface Design at Simon Fraser University'

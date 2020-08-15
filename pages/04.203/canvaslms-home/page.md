@@ -11,13 +11,15 @@ page-inject:
     processed_content: true
 ---
 
-[plugin:content-inject](/202/home/_reminders)
+[plugin:content-inject](/203/home/_reminders)
 
-[plugin:page-inject](/202/home/_preparations)
+[plugin:page-inject](/203/home/_office-hours)
+
+[plugin:page-inject](/203/home/_preparations)
 
 <hr>
 
 ##### UX News Pick of the Week
-[plugin:page-inject](/202/ux-news-pick-of-the-week)
+[plugin:page-inject](/203/ux-news-pick-of-the-week)
 
 [View UX News](https://canvas.sfu.ca/courses/53207/external_tools/13150)
