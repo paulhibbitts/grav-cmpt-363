@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 - Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (1 of 3)'
+title: 'Week 6 - Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (1 of 1)'
 embedly_card_title: 'Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)'
 embedly_card_alignment: left
 embedly_card_url: 'https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA'

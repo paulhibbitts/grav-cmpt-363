@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Oct  21st 11:59pm PDT'
 link_text: 'Chapter 2: Getting to Know Users and Their Tasks'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/478869'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/478869'
 ---

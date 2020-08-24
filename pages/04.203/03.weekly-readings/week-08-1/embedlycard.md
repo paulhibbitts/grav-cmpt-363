@@ -1,5 +1,5 @@
 ---
-title: 'Week 8 - A 5-Step Process For Conducting User Research (1 of 3)'
+title: 'Week 8 - A 5-Step Process For Conducting User Research (1 of 2)'
 embedly_card_title: 'A 5-Step Process For Conducting User Research (18 minutes)'
 embedly_card_alignment: left
 embedly_card_url: 'https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/'

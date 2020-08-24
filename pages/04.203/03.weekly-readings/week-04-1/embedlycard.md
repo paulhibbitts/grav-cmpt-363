@@ -1,8 +1,8 @@
 ---
-title: 'Week 4 - UX design: how to conduct usability testing (1 of 2)'
-embedly_card_title: 'UX design: how to conduct usability testing (18 minute read)'
+title: 'Week 4 - An essential guide to Usability Testing (1 of 2)'
+embedly_card_title: 'An essential guide to Usability Testing (14 minute read)'
 embedly_card_alignment: left
-embedly_card_url: 'https://medium.com/poool-stories/ux-design-how-to-conduct-usability-testing-4c420d451537'
+embedly_card_url: 'https://www.userzoom.com/blog/an-essential-guide-to-usability-testing/'
 published: true
 visible: true
 display_page_title_link: true

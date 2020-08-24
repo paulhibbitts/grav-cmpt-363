@@ -4,6 +4,6 @@ published: true
 visible: true
 badge_display: true
 badge_label: 'Oct 28th 11:59pm PDT'
-link_text: 'How to Analyze Qualitative Data from UX Research: Thematic Analysis'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457089'
+link_text: 'A guide to top UX Research methods'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504160'
 ---

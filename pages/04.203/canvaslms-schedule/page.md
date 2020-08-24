@@ -8,104 +8,103 @@ show_sidebar: false
 ---
 
 ## [fa icon="calendar-o"]Week 1 (Sep 8 - 11)
-**[Course overview](https://canvas.sfu.ca/courses/53207/modules/items/1457101)**  
+**[Course overview](https://canvas.sfu.ca/courses/56304/modules/items/1605299)**  
 
 ## [fa icon="calendar-o"]Week 2 (Sep 12 - 18)
-**[What is usability and user experience design?](https://canvas.sfu.ca/courses/53207/modules/items/1457102)**  
+**[What is usability and user experience design?](https://canvas.sfu.ca/courses/56304/modules/items/1605299)**  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-02-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-02-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Sep 16th 11:59pm PDT"]    
+[fa icon="keyboard-o"][One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Sep 16th 11:59pm PDT"]    
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-02)   
 
 ## [fa icon="calendar-o"]Week 3 (Sep 19 - 25)
-**[What is the practice of multi-device interaction design?](https://canvas.sfu.ca/courses/53207/modules/items/1457103)**   
+**[What is the practice of multi-device interaction design?](https://canvas.sfu.ca/courses/56304/modules/items/1605300)**   
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-03-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-03-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-03-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-03-2?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-03-3?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Sep 23rd 11:59pm PDT"]    
+[fa icon="keyboard-o"][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Sep 23rd 11:59pm PDT"]    
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-03)  
 
 ## [fa icon="calendar-o"]Week 4 (Sep 26 - Oct 2)
-**[How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/53207/modules/items/1457104)**   
+**[How to plan, conduct, and summarize usability tests?](https://canvas.sfu.ca/courses/56304/modules/items/1605302)**   
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-04-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-04-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-04-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Sep 30th 11:59pm PDT"]    
+[fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Sep 30th 11:59pm PDT"]    
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-04)  
 
 ## [fa icon="calendar-o"]Week 5 (Oct 3 - 9)
-**[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/53207/modules/items/1457107)**   
+**[How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/56304/modules/items/1605303)**   
 [fa icon="pencil"][Individual Usability Inspection Assignment](#) [badge label="Oct 19th 11:59pm PDT"]  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Oct 27th 11:59pm PDT"]  
+[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Oct 27th 11:59pm PDT"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-05-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-05-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Oct 7th 11:59pm PDT"]   
+[fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Oct 7th 11:59pm PDT"]   
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-05)  
 
 ## [fa icon="calendar-o"]Week 6 (Oct 10 - 16)
-**Special topic - heuristic evaluations**   
+**[Special topic - heuristic evaluations](https://canvas.sfu.ca/courses/56304/modules/items/1605304)**   
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-06-1?template=partials/embedlycardlinkonly)   
-[fa icon="keyboard-o"][One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Sep 30th 11:59pm PDT"]   
+[fa icon="keyboard-o"][One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Sep 30th 11:59pm PDT"]   
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-06)  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-06)  
 
 ## [fa icon="calendar-o"]Week 7 (Oct 17 - 23)
-**[How to plan, conduct, and summarize usability tests?](https://canvas.sfu.ca/courses/53207/modules/items/1457105)**   
+**[How to explore and describe possible design solutions?](https://canvas.sfu.ca/courses/56304/modules/items/1605305)**   
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-07-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-07-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
-[fa icon="book"][plugin:page-inject](../weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
-[fa icon="book"][plugin:page-inject](../weekly-readings/week-07-3?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Oct 21st 11:59pm PDT"]
+[fa icon="book"][plugin:page-inject](../weekly-readings/week-07-2?template=partials/embedlycardlinkonly)   
+[fa icon="keyboard-o"][One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Oct 21st 11:59pm PDT"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-07)  
 
 ## [fa icon="calendar-o"]Week 8 (Oct 24 - 30)
-**[How to explore and describe possible design solutions?](https://canvas.sfu.ca/courses/53207/modules/items/1457106)**  
-[fa icon="pencil"][Group Exploratory Storyboards](https://canvas.sfu.ca/courses/53207/assignments/457109) [badge label="Nov 16th 11:59pm PDT"]  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Nov 17th 11:59pm PDT"]  
+**[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/56304/modules/items/1605305)**  
+[fa icon="pencil"][Group Exploratory Storyboards](https://canvas.sfu.ca/courses/56304/assignments/457109) [badge label="Nov 16th 11:59pm PDT"]  
+[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Nov 17th 11:59pm PDT"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-08-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-08-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Oct 28th 11:59pm PDT"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Oct 28th 11:59pm PDT"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-08)  
 
 ## [fa icon="calendar-o"]Week 9 (Oct 31- Nov 6)
-**[How to bridge the gap between the problem space and design space?](https://canvas.sfu.ca/courses/53207/modules/items/1457108)**  
+**[How to bridge the gap between the problem space and design space?](https://canvas.sfu.ca/courses/56304/modules/items/1605306)**  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-09-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-09-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-2?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-3?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Nov 4th 11:59pm PDT"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Nov 4th 11:59pm PDT"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-09)  
 
 ## [fa icon="calendar-o"]Week 10 (Nov 7 - 13)
-**Instructor exploratory storyboards meetings**  
+**[Instructor exploratory storyboards meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605307)**  
 Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 ## [fa icon="calendar-o"]Week 11 (Nov 14 - 20)
-**[What are the essentials of visual interface design?](https://canvas.sfu.ca/courses/53207/modules/items/1457110)**  
-[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/53207/assignments/457113) [badge label="Dec 8th 11:59pm PDT"]  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 9th 11:59pm PDT"]  
+**[What are the essentials of visual interface design?](https://canvas.sfu.ca/courses/56304/modules/items/1605308)**  
+[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/457113) [badge label="Dec 8th 11:59pm PDT"]  
+[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 9th 11:59pm PDT"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-2?template=partials/embedlycardlinkonly)    
-[fa icon="keyboard-o"][One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/53207/assignments) [badge label="Nov 18th 11:59pm PDT"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Nov 18th 11:59pm PDT"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-11)
 
 ## [fa icon="calendar-o"]Week 12 (Nov 21 - 27)
-**Special topic - visual interface design**   
+**[Special topic - visual interface design](https://canvas.sfu.ca/courses/56304/modules/items/1605309)**   
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-12-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-12-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  
@@ -113,14 +112,14 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-12)
 
 ## [fa icon="calendar-o"]Week 13 (Nov 28 - Dec 4)
-**Instructor design critique meetings**  
+**[Instructor design critique meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605310)**  
 Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 ## [fa icon="calendar-o"]Week 14 (Dec 5 - 8)  
-**[Course wrap-up](https://canvas.sfu.ca/courses/53207/modules/items/1457113)**  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 9th 11:59pm PDT"]  
+**[Course wrap-up](https://canvas.sfu.ca/courses/56304/modules/items/1605311)**  
+[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Dec 9th 11:59pm PDT"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-14-1)  
 
 ## [fa icon="calendar-o"]Final Exam (TBD)

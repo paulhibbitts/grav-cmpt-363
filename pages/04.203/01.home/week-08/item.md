@@ -24,17 +24,17 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-08)  
 
 ### Assignments
-[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/53207/assignments/457109) [badge label="Nov 16th 11:59pm PDT"]
+[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/56304/assignments/457109) [badge label="Nov 16th 11:59pm PDT"]
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07)
+[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
 
-[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-07)
+[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
 
 ### Supplemental Readings  
@@ -44,7 +44,6 @@ hide_git_sync_repo_link: true
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews)  
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories)  
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis)  
-[plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/thematic-analysis)  
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research)  
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research-analysis)  
 [plugin:content-inject](../../ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research-remote)  

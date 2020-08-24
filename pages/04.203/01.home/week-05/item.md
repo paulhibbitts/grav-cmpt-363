@@ -24,17 +24,17 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-05)  
 
 ### Assignments
-[Usability Inspection Assignment](https://canvas.sfu.ca/courses/53207/assignments/457116)[badge label="Oct 19th 11:59pm PDT"]
+[Usability Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/457116)[badge label="Oct 19th 11:59pm PDT"]
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-05-1)  
 [plugin:page-inject](../../weekly-readings/week-05-2)  
 
 ### BlackBoard Collaborate Session Slides
-[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vSfQ_AqPLLs3UktJRR-ugA-Jm59iLQGMnFHk4EYwlKS0S8_zJbM_qTYQshRLR2Ez9DKINoxdKmOslqS/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05)
+[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSfQ_AqPLLs3UktJRR-ugA-Jm59iLQGMnFHk4EYwlKS0S8_zJbM_qTYQshRLR2Ez9DKINoxdKmOslqS/embed?start=false&loop=false&delayms=3000"]
 
-[Week 5 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-04)
+[Week 5 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-07)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
 
 ### Supplemental Materials  

@@ -18,14 +18,12 @@ Zoom 1-on-1 Office Hours:
 [/div]
 
 [showifembedded]
-[Chat 1-on-1 Office Hours](https://canvas.sfu.ca/courses/53207/external_tools/13146):  
-Mondays 12:00-12:30pm PDT  
+[Chat 1-on-1 Office Hours](https://canvas.sfu.ca/courses/56304/external_tools/14724):   
 Wednesdays 12:00-12:30pm PDT  
 Fridays 12:00-12:30pm PDT  
 [/showifembedded]
 [hideifembedded]
 Chat 1-on-1 Office Hours (right here):  
-Mondays 12:00-12:30pm PDT  
 Wednesdays 12:00-12:30pm PDT  
 Fridays 12:00-12:30pm PDT  
 [/hideifembedded]

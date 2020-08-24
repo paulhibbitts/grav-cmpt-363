@@ -5,7 +5,7 @@ header_image: true
 header_image_file: /202/home/_preparations
 ---
 
-## Online Office Hours (Until Aug 12th)
+## Online Office Hours (Until Aug 19th)
 
 [columns]
 
@@ -16,17 +16,6 @@ Zoom Open Office Hours:
 Zoom 1-on-1 Office Hours:  
 [Wednesdays 1:00-1:30pm PDT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/)  
 [/div]
-
-[showifembedded]
-[Chat 1-on-1 Office Hours](https://canvas.sfu.ca/courses/53207/external_tools/13146):  
-Wednesdays 12:00-12:30pm PDT  
-Fridays 12:00-12:30pm PDT  
-[/showifembedded]
-[hideifembedded]
-Chat 1-on-1 Office Hours (right here):  
-Wednesdays 12:00-12:30pm PDT  
-Fridays 12:00-12:30pm PDT  
-[/hideifembedded]
 
 [/columns]
 

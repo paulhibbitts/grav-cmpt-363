@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Nov 18th 11:59pm PDT'
 link_text: 'Guide for designing better mobile apps typography (8 minute read)'
-link_url: 'https://canvas.sfu.ca/courses/53207/discussion_topics/1045544'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504157'
 ---

@@ -23,5 +23,5 @@ None this week.
 None this week.
 
 ### BlackBoard Collaborate Session Slides
-[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](#)
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Course%20Overview) | [Recording](#)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]

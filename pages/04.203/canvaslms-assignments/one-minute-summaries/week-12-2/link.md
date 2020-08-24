@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Nov 25th 11:59pm PDT'
 link_text: 'Accessibility for Visual Design'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457078'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504151'
 ---

@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Nov 4th 11:59pm PDT'
 link_text: 'Don Norman’s Principles of Interaction Design'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457084'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504153'
 ---

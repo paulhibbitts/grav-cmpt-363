@@ -12,18 +12,18 @@ Paul Hibbitts
 [fa icon="twitter"][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  
-[fa icon="bullhorn"][Anonymous Course Feedback](https://oet.sandcats.io/shared/kKr9k7KvEjIbRsgoFqfwB93Vt7OLcu5s7GlWjjsd8yj)  
+[fa icon="bullhorn"][Anonymous Course Feedback](https://oet.sandcats.io/shared/P3n7h4fkW6LbfbknmMm9kgZVONyEqDNi1ssLilQTfc_)  
 
 Teaching Assistants  
 TBD  
 
 ## Canvas LMS Tools
 [fa icon="calendar"][Calendar](https://canvas.sfu.ca/calendar)  
-[fa icon="pencil"][Assignments](https://canvas.sfu.ca/courses/53207/assignments)  
-[fa icon="comments-o"][Discussions](https://canvas.sfu.ca/courses/53207/discussion_topics)   
-[fa icon="folder"][Files](https://canvas.sfu.ca/courses/53207/files)   
-[fa icon="calculator"][Grades](https://canvas.sfu.ca/courses/53207/gradebook)  
-[fa icon="list-ul"][Syllabus](https://canvas.sfu.ca/courses/53207/assignments/syllabus)  
+[fa icon="pencil"][Assignments](https://canvas.sfu.ca/courses/56304/assignments)  
+[fa icon="comments-o"][Discussions](https://canvas.sfu.ca/courses/56304/discussion_topics)   
+[fa icon="folder"][Files](https://canvas.sfu.ca/courses/56304/files)   
+[fa icon="calculator"][Grades](https://canvas.sfu.ca/courses/56304/gradebook)  
+[fa icon="list-ul"][Syllabus](https://canvas.sfu.ca/courses/56304/assignments/syllabus)  
 
 ## UX News Pick of the Week
 [plugin:page-inject](../ux-news-pick-of-the-week)

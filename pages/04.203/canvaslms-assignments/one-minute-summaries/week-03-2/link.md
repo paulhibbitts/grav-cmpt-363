@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Sep 23rd 11:59pm PDT'
 link_text: '7 UX laws so good, they put their names to them'
-link_url: 'https://uxdesign.cc/7-ux-laws-so-good-they-put-their-names-to-them-dd7559b047e0'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504170'
 ---

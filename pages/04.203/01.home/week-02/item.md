@@ -27,24 +27,24 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../weekly-readings/week-02-2)  
 
 ### BlackBoard Collaborate Session Slides
-[The Process of UX Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[The Process of UX Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTH_oWnrrYLizVwOursEKMSFIY3S8pmSczU1rW7nydvUuHgW6c9u03leaTseXUybjphivdDxPqQSU2E/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02)
+[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vTH_oWnrrYLizVwOursEKMSFIY3S8pmSczU1rW7nydvUuHgW6c9u03leaTseXUybjphivdDxPqQSU2E/embed?start=false&loop=false&delayms=3000"]
 
-[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#)
+[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-07)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
 
 ### CMPT-363 UX Design Process/Toolkit
 ![CMPT-363 UX Design Process/Toolkit Diagram](ux-toolkit-8-no-numbers.png)
 
 ### Downloads
-[Product Reaction Cards](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Product%20Reaction%20Cards)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ### Supplemental Readings  
-[plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/agile-ux)  
-[plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/design-ethics)  
-[plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/lean-ux)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/agile-ux)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/design-ethics)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/lean-ux)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-the-practice-of-multidevice-interaction-design/problem-statements)  
-[plugin:content-inject](../../ux-techniques-guide/what-does-a-holistic-user-experience-design-process-look-like/scenario-based-design)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/scenario-based-design)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/usability)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-centered-design)   
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-experience-design)  

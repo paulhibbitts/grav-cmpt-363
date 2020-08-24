@@ -22,4 +22,4 @@ page-inject:
 ##### UX News Pick of the Week
 [plugin:page-inject](/203/ux-news-pick-of-the-week)
 
-[View UX News](https://canvas.sfu.ca/courses/53207/external_tools/13150)
+[View UX News](https://canvas.sfu.ca/courses/56304/external_tools/14728)

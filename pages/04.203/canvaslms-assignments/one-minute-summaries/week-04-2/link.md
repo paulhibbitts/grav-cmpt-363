@@ -5,5 +5,5 @@ visible: true
 badge_display: true
 badge_label: 'Sep 30th 11:59pm PDT'
 link_text: 'Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457094'
+link_url: 'https://canvas.sfu.ca/courses/56304/assignments/457094'
 ---
