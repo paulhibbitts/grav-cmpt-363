@@ -23,3 +23,8 @@ page-inject:
 [plugin:page-inject](/203/ux-news-pick-of-the-week)
 
 [View UX News](https://canvas.sfu.ca/courses/56304/external_tools/14728)
+
+<hr>
+
+**90's Flashback Friday**  
+[R.E.M. - Near Wild Heaven](https://www.youtube.com/watch?v=oC7er_6dpsI)

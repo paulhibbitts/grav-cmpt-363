@@ -5,7 +5,7 @@ header_image: true
 header_image_file: /203/home/week-02
 ---
 
-## Looking Ahead to the Second Week
+## Looking Ahead to the Second Week 🔭
 
 ### Week 2 Live Blackboard Collaborate Sessions
 * [plugin:page-inject](../../blackboard-sessions/week-02-1)   	

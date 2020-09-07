@@ -9,7 +9,7 @@ visible: false
 
 <div class="row">
   <div class="col-md-7">
-  <br><p><iframe id="livechat" style="margin-top: -16px; border: 1px #ffffff none;" src="https://env-8043314.ca.reclaim.cloud/livechat?mode=popout" width="100%" height="690px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe><div class="hide-rocketchat-button"></div></p><br>
+  <br><p><iframe id="livechat" style="margin-top: -16px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="690px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe><div class="hide-rocketchat-button"></div></p><br>
   </div>
   <div class="col-md-5 order-first order-md-2"><br>
   <h2>Course Facilitators</h2>
@@ -19,7 +19,7 @@ visible: false
   </a><br>
   <i class="fa fa-comment" aria-hidden="true"></i> PaulHibbitts on <a href="https://t.co/GZQUc6iVjS">CSSS Discord</a><br>
   <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br><br>
-  Suggestion or complaint?<br><i class="fa fa-bullhorn" aria-hidden="true"></i><a href="https://oet.sandcats.io/shared/P3n7h4fkW6LbfbknmMm9kgZVONyEqDNi1ssLilQTfc_">Anonymous Course Feedback</a><br><br>
+  Suggestion or complaint?<br><i class="fa fa-bullhorn" aria-hidden="true"></i><a href="https://www.surveymonkey.ca/r/2PL5WWJ">Anonymous Course Feedback</a><br><br>
   Teaching Assistants<br>
   TBD
   </div>

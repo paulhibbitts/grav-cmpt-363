@@ -22,7 +22,7 @@ anchors:
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/56304/modules/items/1605300)  
 [Designing for Touch](https://canvas.sfu.ca/courses/56304/modules/items/1605301)  
-[Design Scenarios (and Scenarios)](https://canvas.sfu.ca/courses/56304/modules/items/1605305)  
+[Design Scenarios (also called Task Examples)](https://canvas.sfu.ca/courses/56304/modules/items/1605305)  
 [Design Thinking](https://canvas.sfu.ca/courses/56304/modules/items/1605300)  
 [Discovery Research](https://canvas.sfu.ca/courses/56304/modules/items/1605306)
 
@@ -76,7 +76,7 @@ anchors:
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/56304/modules/items/1605305)  
-[Scenarios (and Design Scenarios)](https://canvas.sfu.ca/courses/56304/modules/items/1605305)  
+[Scenarios (also called Task Examples)](https://canvas.sfu.ca/courses/56304/modules/items/1605305)  
 [Scott Klemmer’s Look at Heuristics](https://canvas.sfu.ca/courses/56304/modules/items/1605304)  
 [Seven Stages of Action](https://canvas.sfu.ca/courses/56304/modules/items/1605303)  
 [Sketching](https://canvas.sfu.ca/courses/56304/modules/items/1605305)

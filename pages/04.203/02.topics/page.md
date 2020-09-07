@@ -22,7 +22,7 @@ anchors:
 ### D
 [Design Ethics](../home/week-02)  
 [Designing for Touch](../home/week-03)  
-[Design Scenarios (and Scenarios)](../home/week-07)  
+[Design Scenarios (also called Task Examples)](../home/week-07)  
 [Design Thinking](../home/week-02)  
 [Discovery Research](../home/week-08)  
 
@@ -76,7 +76,7 @@ anchors:
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](../home/week-07)  
-[Scenarios (and Design Scenarios)](../home/week-07)  
+[Scenarios (also called Task Examples)](../home/week-07)  
 [Seven Stages of Action](../home/week-09)  
 [Sketching](../home/week-07)
 [Software Design Processes](../home/week-02)  

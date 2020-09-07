@@ -12,7 +12,7 @@ Paul Hibbitts
 [fa icon="twitter"][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  
-[fa icon="bullhorn"][Anonymous Course Feedback](https://oet.sandcats.io/shared/P3n7h4fkW6LbfbknmMm9kgZVONyEqDNi1ssLilQTfc_)  
+[fa icon="bullhorn"][Anonymous Course Feedback](https://www.surveymonkey.ca/r/2PL5WWJ)  
 
 Teaching Assistants  
 TBD  
@@ -29,3 +29,8 @@ TBD
 [plugin:page-inject](../ux-news-pick-of-the-week)
 
 [View UX News](../ux-news)  
+
+<hr>
+
+**90's Flashback Friday**  
+[R.E.M. - Near Wild Heaven](https://www.youtube.com/watch?v=oC7er_6dpsI)

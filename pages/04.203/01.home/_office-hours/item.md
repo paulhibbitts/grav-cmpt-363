@@ -3,7 +3,7 @@ title: 'Regular Office Hours'
 published: true
 ---
 
-## Online Office Hours
+## Online Office (Student) Hours 👩🏻‍💻👨🏻‍💻
 
 Regular online office hours start the week of Sep 14th
 
