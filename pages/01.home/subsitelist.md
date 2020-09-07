@@ -8,7 +8,7 @@ visible: false
 card_width: '5'
 content:
     order:
-        by: date
+        by: folder
         dir: desc
 ---
 
