@@ -17,7 +17,7 @@ body {
 
 /* CSS to better match link colors with Canvas LMS*/
 
-a:not(.btn) {
+a:not(.btn):not(.badge):not(.navbar-brand) {
   color: #008EE2;
 }
 
