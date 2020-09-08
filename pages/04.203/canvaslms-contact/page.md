@@ -17,7 +17,7 @@ visible: false
   <i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:&#112;&#97;&#117;&#108;&#95;&#104;&#105;&#98;&#98;&#105;&#116;&#116;&#115;&#64;&#115;&#102;&#117;&#46;&#99;&#97;" class="external-link">
     &#112;&#97;&#117;&#108;&#95;&#104;&#105;&#98;&#98;&#105;&#116;&#116;&#115;&#64;&#115;&#102;&#117;&#46;&#99;&#97;
   </a><br>
-  <i class="fa fa-comment" aria-hidden="true"></i> PaulHibbitts on <a href="https://t.co/GZQUc6iVjS">CSSS Discord</a><br>
+  <i class="fa fa-comment" aria-hidden="true"></i> PaulHibbitts on <a href="https://t.co/GZQUc6iVjS">CSSS @SFU Discord</a><br>
   <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br><br>
   Suggestion or complaint?<br><i class="fa fa-bullhorn" aria-hidden="true"></i><a href="https://www.surveymonkey.ca/r/2PL5WWJ">Anonymous Course Feedback</a><br><br>
   Teaching Assistants<br>

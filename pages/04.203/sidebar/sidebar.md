@@ -8,7 +8,7 @@ cache_enable: false
 ## Course Facilitators
 Paul Hibbitts  
 [safe-email autolink="true" icon="envelope"]paul_hibbitts@sfu.ca[/safe-email]  
-[fa icon="comment"]PaulHibbitts on [CSSS Discord](https://t.co/GZQUc6iVjS)  
+[fa icon="comment"]PaulHibbitts on [CSSS @ SFU Discord](https://t.co/GZQUc6iVjS)  
 [fa icon="twitter"][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  

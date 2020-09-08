@@ -35,7 +35,7 @@ anchors:
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-04-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-04-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Sep 30th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20200923T235900&p1=256"]    
+[fa icon="keyboard-o"][One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Sep 30th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20200923T235900&p1=256"]    
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-04)  
 
 ## [[fa icon="calendar-o"]Week 5 (Oct 3 - 9)](../home/week-05)
@@ -53,7 +53,7 @@ anchors:
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-06-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-06-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-06-1?template=partials/embedlycardlinkonly)   
-[fa icon="keyboard-o"][One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Sep 30th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20200930T235900&p1=256"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Oct 14th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20200930T235900&p1=256"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-06)  
 
 ## [[fa icon="calendar-o"]Week 7 (Oct 17 - 23)](../home/week-07)
@@ -109,7 +109,7 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-12-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 18th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20201118T235900&p1=256"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 25th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20201118T235900&p1=256"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-12)
 
 ## [[fa icon="calendar-o"]Week 13 (Nov 28 - Dec 4)](../home/week-13)
