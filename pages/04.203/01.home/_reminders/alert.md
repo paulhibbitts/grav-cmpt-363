@@ -4,11 +4,12 @@ alert_style: alert-secondary
 published: true
 ---
 
-## What’s Happening First Week 🚀
+## What's Happening This Week 💫
 
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/56304/external_tools/3544)  
 
-* Course Overview [badge label="Thu Sep 10th 2:30pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20200910T1430&p1=256&am=50"] [Guest access for waitlisted students TBA]
+* [plugin:page-inject](../../blackboard-sessions/week-03-1)  
+* [plugin:page-inject](../../blackboard-sessions/week-03-2)  
 
 ### Important Reminders
 
@@ -17,4 +18,8 @@ published: true
 Is your group interested in an open source mobile project other than the planned SFU MySchedule Mobile redesign? Post your [group project proposal](https://canvas.sfu.ca/courses/56304/discussion_topics/1114506) by Sep 28th.
 
 ### Required Readings & One-Minute Summaries
-Weekly readings and one-minute summaries start week of Sep 12th.
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-1)  	
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-2)  
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-3)  
+
+[button label="Week 3 Review Quiz due Sep 25th" url="https://canvas.sfu.ca/courses/56304/assignments/504180"]

@@ -24,7 +24,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-08)  
 
 ### Assignments
-[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/56304/assignments/457109) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Exploratory+Storyboards+Due+Date&iso=20201116T2359"]  
+[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Exploratory+Storyboards+Due+Date&iso=20201116T2359"]  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  

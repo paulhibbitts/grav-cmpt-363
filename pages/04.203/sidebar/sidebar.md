@@ -15,7 +15,8 @@ Suggestion or complaint?
 [fa icon="bullhorn"][Anonymous Course Feedback](https://www.surveymonkey.ca/r/2PL5WWJ)  
 
 Teaching Assistants  
-TBD  
+[safe-email autolink="true" icon="envelope"]bmuthuvi@sfu.ca[/safe-email]  
+[safe-email autolink="true" icon="envelope"]akshit_sharma@sfu.ca[/safe-email]  
 
 ## Canvas LMS Tools
 [fa icon="calendar"][Calendar](https://canvas.sfu.ca/calendar)  
@@ -33,4 +34,4 @@ TBD
 <hr>
 
 **90's Flashback Friday**  
-[R.E.M. - Near Wild Heaven](https://www.youtube.com/watch?v=oC7er_6dpsI)
+[Spin Doctors - Two Princes](https://www.youtube.com/watch?v=wsdy_rct6uo)

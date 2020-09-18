@@ -21,6 +21,13 @@ visible: false
   <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br><br>
   Suggestion or complaint?<br><i class="fa fa-bullhorn" aria-hidden="true"></i><a href="https://www.surveymonkey.ca/r/2PL5WWJ">Anonymous Course Feedback</a><br><br>
   Teaching Assistants<br>
-  TBD
+  Bala Shanmugam<br>  
+    <i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:&#98;&#109;&#117;&#116;&#104;&#117;&#118;&#105;&#64;&#115;&#102;&#117;&#46;&#99;&#97;" class="external-link">
+      &#98;&#109;&#117;&#116;&#104;&#117;&#118;&#105;&#64;&#115;&#102;&#117;&#46;&#99;&#97;
+    </a><br><br>
+  Akshit Sharma<br>  
+    <i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:&#97;&#107;&#115;&#104;&#105;&#116;&#95;&#115;&#104;&#97;&#114;&#109;&#97;&#64;&#115;&#102;&#117;&#46;&#99;&#97;" class="external-link">
+      &#97;&#107;&#115;&#104;&#105;&#116;&#95;&#115;&#104;&#97;&#114;&#109;&#97;&#64;&#115;&#102;&#117;&#46;&#99;&#97;
+    </a><br>
   </div>
 </div>

@@ -5,7 +5,7 @@ published: true
 
 ## Online Office (Student) Hours 👩🏻‍💻👨🏻‍💻
 
-Regular online office hours start the week of Sep 14th
+Regular online office hours start Friday, September 11th
 
 [columns]
 
