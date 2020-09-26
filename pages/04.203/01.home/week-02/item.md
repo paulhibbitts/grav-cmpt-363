@@ -2,7 +2,7 @@
 title: 'Week 2 (Sep 12 - 18)'
 published: true
 date: '12-09-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 

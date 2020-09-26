@@ -45,6 +45,7 @@ show_sidebar: false
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-05-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
+[fa icon="book"][plugin:page-inject](../weekly-readings/week-05-3?template=partials/embedlycardlinkonly)  
 [fa icon="keyboard-o"][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Oct 7th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20200923T235900&p1=256"]   
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-05)  
 
