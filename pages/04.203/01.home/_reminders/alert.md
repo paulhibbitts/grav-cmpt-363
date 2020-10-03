@@ -8,17 +8,16 @@ published: true
 
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/56304/external_tools/3544)  
 
-* [plugin:page-inject](../../blackboard-sessions/week-04-1)  
-* [plugin:page-inject](../../blackboard-sessions/week-04-2)  
+* [plugin:page-inject](../../blackboard-sessions/week-05-1)  
+* [plugin:page-inject](../../blackboard-sessions/week-05-2)  
 
 ### Important Reminders
 
-* [Complete Group Contract and Communication Plan](https://www.surveymonkey.ca/r/2PD5Y79) [badge label="Mon Sep 28th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Project+Group+Due+Date&iso=20200928T235900&p1=256"]
-
-Is your group interested in an open source mobile project other than the planned SFU MySchedule Mobile redesign? Post your [group project proposal](https://canvas.sfu.ca/courses/56304/discussion_topics/1114506) by Sep 28th.
+* [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175) [badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359"]
 
 ### Required Readings & One-Minute Summaries
-* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-04-1)  	
-* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-04-2)   
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05-1)  	
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05-2)   
+* [plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05-3)   
 
-[button label="Week 4 Review Quiz due Oct 2nd" url="https://canvas.sfu.ca/courses/56304/assignments/504181"]
+[button label="Week 5 Review Quiz due Oct 9th" url="https://canvas.sfu.ca/courses/56304/assignments/504182"]

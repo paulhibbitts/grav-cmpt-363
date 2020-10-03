@@ -2,7 +2,7 @@
 title: 'Week 5 (Oct 3 - 9)'
 published: true
 date: '03-10-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -24,11 +24,12 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-05)  
 
 ### Assignments
-[Usability Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175)[badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359"]  
+[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175) [badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359"]  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-05-1)  
 [plugin:page-inject](../../weekly-readings/week-05-2)  
+[plugin:page-inject](../../weekly-readings/week-05-3)  
 
 ### BlackBoard Collaborate Session Slides
 [Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vSfQ_AqPLLs3UktJRR-ugA-Jm59iLQGMnFHk4EYwlKS0S8_zJbM_qTYQshRLR2Ez9DKINoxdKmOslqS/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)

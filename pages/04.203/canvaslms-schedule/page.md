@@ -40,7 +40,7 @@ show_sidebar: false
 
 ## [fa icon="calendar-o"]Week 5 (Oct 3 - 9)
 **[How to conduct a user interface inspection?](https://canvas.sfu.ca/courses/56304/modules/items/1605303)**   
-[fa icon="pencil"][Individual Usability Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175) [badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359" target="_top"]  
+[fa icon="pencil"][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175) [badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359" target="_top"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-05-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-05-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
