@@ -26,7 +26,6 @@ hide_git_sync_repo_link: true
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](../../weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-07-3?template=partials/embedlycardlinkonly)   
 
 ### BlackBoard Collaborate Session Slides
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRdTH8q5sS5bCkXyeDbIqJYal6bwFaQPec64NyxhfWv_S_t528qqgKW4NBpBBvyEC0GDOEpa9l2NMOT/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)

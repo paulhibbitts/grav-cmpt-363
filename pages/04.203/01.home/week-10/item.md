@@ -6,13 +6,13 @@ hide_from_post_list: true
 hide_git_sync_repo_link: true
 ---
 
-Instructor exploratory storyboards meetings, no regularly scheduled Blackboard Collaborate sessions.  
+Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions.  
 
 Zoom group meetings tentatively scheduled between 12noon and 5:00PM PDT Nov 9, 10th and 12th.
 
 ===
 
-Instructor exploratory storyboards meetings, no regularly scheduled Blackboard Collaborate sessions.
+Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions.
 
 Zoom group meetings tentatively scheduled between 12noon and 5:00PM PDT Nov 9, 10th and 12th.
 

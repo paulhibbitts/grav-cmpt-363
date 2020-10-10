@@ -68,12 +68,13 @@ show_sidebar: false
 
 ## [fa icon="calendar-o"]Week 8 (Oct 24 - 30)
 **[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/56304/modules/items/1605305)**  
-[fa icon="pencil"][Group Exploratory Storyboards](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Exploratory+Storyboards+Due+Date&iso=20201116T2359" target="_top"]  
+[fa icon="pencil"][Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=20201116T2359" target="_top"]  
 [fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Tue Nov 17th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201117T2359" target="_top"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-08-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-08-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
+[fa icon="book"][plugin:page-inject](../weekly-readings/week-08-3?template=partials/embedlycardlinkonly)  
 [fa icon="keyboard-o"][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Oct 28th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20201028T235900&p1=256"]  
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-08)  
 
@@ -88,7 +89,7 @@ show_sidebar: false
 [fa icon="keyboard-o"][plugin:page-inject](../canvaslms-assignments/weekly-review-quizzes/week-09)  
 
 ## [fa icon="calendar-o"]Week 10 (Nov 7 - 13)
-**[Instructor exploratory storyboards meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605307)**  
+**[Instructor design scenarios and storyboard mockups meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605307)**  
 Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
