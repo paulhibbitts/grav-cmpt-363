@@ -17,12 +17,12 @@ hide_git_sync_repo_link: true
 ## **What is the practice of multi-device interaction design?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-2)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-03-3)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-03-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-03-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-03-3)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-03)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-03)  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-03-1)  

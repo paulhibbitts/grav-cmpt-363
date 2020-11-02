@@ -1,5 +1,5 @@
 ---
-title: 'Home in Canvas LMS'
+title: 'Home'
 published: true
 visible: false
 hide_page_title: false
@@ -32,4 +32,4 @@ page-inject:
 </script>
 
 **90's Flashback Friday**  
-[The Stone Roses - She Bangs the Drums](https://www.youtube.com/watch?v=wD6Pq0bSMPo)
+[Jesus Jones - International Bright Young Thing](https://www.youtube.com/watch?v=XedEne6TXXA)

@@ -16,11 +16,11 @@ hide_from_post_list: true
 ## **What are the essentials of effective visual communication?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-11-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-11-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-11-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-11-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-11)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-11)  
 
 ### Assignments
 [Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Mon Dec 7th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201207T2359"]

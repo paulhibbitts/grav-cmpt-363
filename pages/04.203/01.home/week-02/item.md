@@ -16,11 +16,11 @@ hide_git_sync_repo_link: true
 ## **What is usability and user experience design?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-02-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-02-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-02-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-02-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-02)
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-02)
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-02-1)  

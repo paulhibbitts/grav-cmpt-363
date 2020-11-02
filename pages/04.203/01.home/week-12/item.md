@@ -10,18 +10,22 @@ hide_git_sync_repo_link: true
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-12-2?template=partials/embedlycardlinkonly)  
+
+## Instructor interactive prototype meetings
+
+Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PDT Nov 26th,
+Nov 27th, Nov 30th and Dec 1st.
 
 ===
 
 ## **Special topics — visual interface design**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-12-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-12-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-12-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-12-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-12)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-12)  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  

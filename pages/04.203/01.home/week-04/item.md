@@ -17,11 +17,11 @@ hide_git_sync_repo_link: true
 ## **How to plan, conduct, and summarize usability tests?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-04-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-04-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-04-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-04-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-04)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-04)  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  

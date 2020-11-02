@@ -17,14 +17,14 @@ hide_git_sync_repo_link: true
 ## **How to conduct a user interface inspection?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-05-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-05-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-05-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-05)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-05)  
 
 ### Assignments
-[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/504175) [badge label="Mon Oct 19th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359"]  
+[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/553598) [badge label="Mon Oct 26th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20201019T2359"]  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-05-1)  

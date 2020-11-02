@@ -2,7 +2,7 @@
 title: 'Week 9 (Oct 31 - Nov 6)'
 published: true
 date: '31-10-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -18,12 +18,12 @@ hide_git_sync_repo_link: true
 ## **How to bridge the gap between the problem space and design space?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-09-1)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-09-2)  
-[plugin:page-inject](../../canvaslms-assignments/one-minute-summaries/week-09-3)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-09-1)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-09-2)  
+[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-09-3)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-09)  
+[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-09)  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-09-1?template=partials/embedlycardlinkonly)  
