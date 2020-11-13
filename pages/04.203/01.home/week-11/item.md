@@ -2,7 +2,7 @@
 title: 'Week 11 (Nov 14 - 20)'
 published: true
 date: '14-11-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 ---
 
 ## What are the essentials of effective visual communication?  

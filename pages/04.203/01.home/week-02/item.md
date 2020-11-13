@@ -42,6 +42,7 @@ hide_git_sync_repo_link: true
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/agile-ux)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/design-ethics)  
+[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/journey-mapping)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/lean-ux)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-the-practice-of-multidevice-interaction-design/problem-statements)  
 [plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/scenario-based-design)  

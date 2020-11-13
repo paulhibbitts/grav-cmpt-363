@@ -33,7 +33,7 @@ anchors:
 ### F
 [Fitts’s Law](https://canvas.sfu.ca/courses/56304/modules/items/1605301)  
 [Five Dimensions of HCI](https://canvas.sfu.ca/courses/56304/modules/items/1605301)  
-[Five Whys](https://canvas.sfu.ca/courses/56304/modules/items/1605300)  
+[Five Whys](https://canvas.sfu.ca/courses/56304/modules/items/1605306)  
 
 ### G
 [Grids](https://canvas.sfu.ca/courses/56304/modules/items/1605309)  
@@ -54,6 +54,7 @@ anchors:
 [Jakob Nielsen’s Heuristics](https://canvas.sfu.ca/courses/56304/modules/items/1605303)  
 [Jobs to Be Done Framework](https://canvas.sfu.ca/courses/56304/modules/items/1605306)  
 [Job Stories](https://canvas.sfu.ca/courses/56304/modules/items/1605306)  
+[Journey Mapping](https://canvas.sfu.ca/courses/56304/modules/items/1605300)  
 
 ### L
 [Layout](https://canvas.sfu.ca/courses/56304/modules/items/1605309)  

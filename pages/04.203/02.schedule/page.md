@@ -84,7 +84,7 @@ anchors:
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-2?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-3?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 4th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20201104T235900&p1=256"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20201104T235900&p1=256"]  
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-09)  
 
 ## [[fa icon="calendar-o"]Week 10 (Nov 7 - 13)](../home/week-10)
@@ -95,13 +95,13 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 
 ## [[fa icon="calendar-o"]Week 11 (Nov 14 - 20)](../home/week-11)
 **What are the essentials of visual interface design?**  
-[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256"]  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Mon Dec 7th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]  
+[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256"]  
+[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-2?template=partials/embedlycardlinkonly)    
-[fa icon="keyboard-o"][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 18th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20201118T235900&p1=256"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 18th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20201118T235900&p1=256"]  
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-11)
 
 ## [[fa icon="calendar-o"]Week 12 (Nov 21 - 27)](../home/week-12)
@@ -109,7 +109,7 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-12-1)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-2?template=partials/embedlycardlinkonly)  
-[fa icon="keyboard-o"][One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 25th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20201118T235900&p1=256"]  
+[fa icon="keyboard-o"][One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/56304/assignments) [badge label="Wed Nov 25th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20201118T235900&p1=256"]  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 **Instructor interactive prototype meetings**  
@@ -122,8 +122,8 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 
 ## [[fa icon="calendar-o"]Week 14 (Dec 5 - 8)](../home/week-14)
 **Course wrap-up**  
-[fa icon="folder"][Team Member Evaluation](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Team%20Member%20Evaluations) [badge label="Mon Dec 7th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]    
+[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]    
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-14-1)  
 
 ## [fa icon="calendar-o"]Final Exam
-**Online Final Exam** [badge label="Wed Dec 9th 12:00pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20201209T120000&p1=256" target="_top"]   
+**Online Final Exam** [badge label="Wed Dec 9th 12:00pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20201209T120000&p1=256" target="_top"]   

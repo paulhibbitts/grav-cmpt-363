@@ -32,4 +32,4 @@ page-inject:
 </script>
 
 **90's Flashback Friday**  
-[Jesus Jones - International Bright Young Thing](https://www.youtube.com/watch?v=XedEne6TXXA)
+[Beck - Devils Haircut](https://www.youtube.com/watch?v=aa3rBVb3v4g)

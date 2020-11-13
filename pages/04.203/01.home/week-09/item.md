@@ -34,8 +34,8 @@ hide_git_sync_repo_link: true
 [Conceptual Models — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRsqLFYKmXGslCzoYrpNN2w_BlI-7EKr0xByzO4_497eqiLUrLHOVOvxDbKnRHJsjSPr13sRPEJ4eg8/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-09) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vRsqLFYKmXGslCzoYrpNN2w_BlI-7EKr0xByzO4_497eqiLUrLHOVOvxDbKnRHJsjSPr13sRPEJ4eg8/embed?start=false&loop=false&delayms=3000"]
 
-[Week 9 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[Week 9 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSKAoTMtqOIlhJAF8cchpVBrbt3rn_Y6PYZ8EDTNHbXRVADThuS1DwkLt-mIr33WpN0EPuoEmOliHyo/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/56304/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
+[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSKAoTMtqOIlhJAF8cchpVBrbt3rn_Y6PYZ8EDTNHbXRVADThuS1DwkLt-mIr33WpN0EPuoEmOliHyo/embed?start=false&loop=false&delayms=3000"]
 
 ### Supplemental Materials  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
