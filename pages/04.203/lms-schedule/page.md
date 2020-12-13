@@ -67,7 +67,7 @@ show_sidebar: false
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-07)  
 
 ## [fa icon="calendar-o"]Week 8 (Oct 24 - 30)
-**[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/56304/modules/items/1605305)**  
+**[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/56304/modules/items/1605306)**  
 [fa icon="pencil"][Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=20201116T2359&p1=256" target="_top"]  
 [fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JCPFVQY) [badge label="Tue Nov 17th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201117T2359" target="_top"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-08-1)  
@@ -78,7 +78,7 @@ show_sidebar: false
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-08)  
 
 ## [fa icon="calendar-o"]Week 9 (Oct 31- Nov 6)
-**[How to bridge the gap between the problem space and design space?](https://canvas.sfu.ca/courses/56304/modules/items/1605306)**  
+**[How to bridge the gap between the problem space and design space?](https://canvas.sfu.ca/courses/56304/modules/items/1605307)**  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-09-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-09-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-09-1?template=partials/embedlycardlinkonly)  
@@ -88,15 +88,15 @@ show_sidebar: false
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-09)  
 
 ## [fa icon="calendar-o"]Week 10 (Nov 7 - 13)
-**[Instructor design scenarios and storyboard mockups meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605307)**  
-Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
+**[Instructor design scenarios and storyboard mockups meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605308)**  
+Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 ## [fa icon="calendar-o"]Week 11 (Nov 14 - 20)
-**[What are the essentials of visual interface design?](https://canvas.sfu.ca/courses/56304/modules/items/1605308)**  
-[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256" target="_top"]  
-[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256" target="_top"]    
+**[What are the essentials of visual interface design?](https://canvas.sfu.ca/courses/56304/modules/items/1605309)**  
+[fa icon="pencil"][Group Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256" target="_top"]  
+[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201204T235900&p1=256" target="_top"]    
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-2)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  
@@ -105,7 +105,7 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="keyboard-o"][plugin:page-inject](../lms-assignments/weekly-review-quizzes/week-11)
 
 ## [fa icon="calendar-o"]Week 12 (Nov 21 - 27)
-**[Special topic - visual interface design](https://canvas.sfu.ca/courses/56304/modules/items/1605309)**   
+**[Special topic - visual interface design](https://canvas.sfu.ca/courses/56304/modules/items/1605310)**   
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-12-1)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-1?template=partials/embedlycardlinkonly)  
 [fa icon="book"][plugin:page-inject](../weekly-readings/week-12-2?template=partials/embedlycardlinkonly)  
@@ -113,16 +113,19 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="keyboard-o"]No weekly review quiz  
 
 **Instructor interactive prototype meetings**  
-Online instructor meetings (10 mins.), no Thur Nov 26th Blackboard Collaborate session  
+Online instructor meetings (15 mins.), no regularly scheduled Thur Nov 26th Blackboard Collaborate session  
 
 ## [fa icon="calendar-o"]Week 13 (Nov 28 - Dec 4)
-**[Instructor design critique meetings](https://canvas.sfu.ca/courses/56304/modules/items/1605310)**  
-Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
+**[Instructor design critique meetings and course wrap-up](https://canvas.sfu.ca/courses/56304/modules/items/1605311)**  
+Online instructor meetings (15 mins.), no regularly scheduled Tue Dec 1st Blackboard Collaborate session  
+
+[fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-13-2)  
+[fa icon="keyboard-o"]No weekly review quiz  
 
 ## [fa icon="calendar-o"]Week 14 (Dec 5 - 8)  
-**[Course wrap-up](https://canvas.sfu.ca/courses/56304/modules/items/1605311)**  
-[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256" target="_top"]    
-[fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-14-1)  
+**[Zoom Open Office Hours](https://canvas.sfu.ca/courses/56304/modules/items/1605312)**  
+[fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201204T235900&p1=256" target="_top"]    
+[fa icon="desktop"][Zoom Open Office Hours Tue Dec 8th 2:30pm PST](https://www2.cs.sfu.ca/CourseCentral/363/paulh/open-office-hours)  
 
 ## [fa icon="calendar-o"]Final Exam
 **Online Final Exam** [badge label="Wed Dec 9th 12:00pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20201209T120000&p1=256" target="_top"]   

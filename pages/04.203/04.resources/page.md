@@ -26,6 +26,11 @@ anchors:
 *   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/)
 *   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
+## Blackboard Collaborate
+
+*   [Chrome Browser Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+*   [Firefox Browser Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/videospeed/)
+
 ## Figma
 *   [Figma Web App](https://www.figma.com/) (request a free student account)
 *   [Figma Help Centre](https://help.figma.com/hc/en-us)

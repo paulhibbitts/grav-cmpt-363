@@ -39,4 +39,4 @@ Teaching Assistants
 </script>
 
 **90's Flashback Friday**  
-[Beck - Devils Haircut](https://www.youtube.com/watch?v=aa3rBVb3v4g)
+[Lightning Seeds - Pure](https://www.youtube.com/watch?v=HZFJVAaSOrE)

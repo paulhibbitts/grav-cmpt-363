@@ -89,13 +89,13 @@ anchors:
 
 ## [[fa icon="calendar-o"]Week 10 (Nov 7 - 13)](../home/week-10)
 **Instructor design scenarios and storyboard mockups meetings**  
-Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
+Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 ## [[fa icon="calendar-o"]Week 11 (Nov 14 - 20)](../home/week-11)
 **What are the essentials of visual interface design?**  
-[fa icon="pencil"][Group or Individual Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256"]  
+[fa icon="pencil"][Group Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Fri Dec 4th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Interactive+Prototype+Due+Date&iso=20201204T2359&p1=256"]  
 [fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-1)  
 [fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-11-2)  
@@ -113,17 +113,18 @@ Online instructor meetings (10 mins.), no regular Blackboard Collaborate session
 [fa icon="keyboard-o"]No weekly review quiz  
 
 **Instructor interactive prototype meetings**  
-Online instructor meetings (10 mins.), no Thur Nov 26th Blackboard Collaborate session  
+Online instructor meetings (15 mins.), no regularly scheduled Thur Nov 26th Blackboard Collaborate session  
 
 ## [[fa icon="calendar-o"]Week 13 (Nov 28 - Dec 4)](../home/week-13)
-**Instructor interactive prototype meetings**  
-Online instructor meetings (10 mins.), no regular Blackboard Collaborate sessions  
+**Instructor interactive prototype meetings and course wrap-up**  
+Online instructor meetings (15 mins.), no regularly scheduled Tue Dec 1st Blackboard Collaborate session  
+
+[fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-13-2)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
 ## [[fa icon="calendar-o"]Week 14 (Dec 5 - 8)](../home/week-14)
-**Course wrap-up**  
 [fa icon="folder"][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20201207T235900&p1=256"]    
-[fa icon="desktop"][plugin:page-inject](../blackboard-sessions/week-14-1)  
+[fa icon="desktop"][Zoom Open Office Hours Tue Dec 8th 2:30pm PST](https://www2.cs.sfu.ca/CourseCentral/363/paulh/open-office-hours)  
 
 ## [fa icon="calendar-o"]Final Exam
 **Online Final Exam** [badge label="Wed Dec 9th 12:00pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20201209T120000&p1=256" target="_top"]   
