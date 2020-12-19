@@ -16,4 +16,5 @@ header_image_file: /203/home/week-03
 ### Week 2 Required Readings and One-Minute Summaries
 
 * [plugin:page-inject](../../weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  	
-* [plugin:page-inject](../../weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  	
+* [plugin:page-inject](../../weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
+* [plugin:page-inject](../../weekly-readings/week-02-3?template=partials/embedlycardlinkonly)  	

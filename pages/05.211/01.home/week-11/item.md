@@ -29,8 +29,8 @@ TBD
 [plugin:page-inject](../../weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"[/googleslides]
 
 ### Supplemental Readings  
 [plugin:content-inject](../../ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  

@@ -8,8 +8,8 @@ cache_enable: false
 ## Course Facilitators
 Paul Hibbitts  
 [safe-email autolink="true" icon="envelope"]paul_hibbitts@sfu.ca[/safe-email]  
-[fa icon="comment"]PaulHibbitts on [CSSS @ SFU Discord](https://t.co/GZQUc6iVjS)  
-[fa icon="twitter"][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
+[fa="comment"][/fa]PaulHibbitts on [CSSS @ SFU Discord](https://t.co/GZQUc6iVjS)  
+[fa="twitter"][/fa][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  
 [fa icon="bullhorn"][Anonymous Course Feedback](https://www.surveymonkey.ca/r/WD9D6HJ)  
@@ -18,12 +18,12 @@ Teaching Assistants
 TBD
 
 ## Canvas LMS Tools
-[fa icon="calendar"][Calendar](https://canvas.sfu.ca/calendar)  
-[fa icon="pencil"][Assignments](https://canvas.sfu.ca/courses/56304/assignments)  
-[fa icon="comments-o"][Discussions](https://canvas.sfu.ca/courses/56304/discussion_topics)   
-[fa icon="folder"][Files](https://canvas.sfu.ca/courses/56304/files)   
-[fa icon="calculator"][Grades](https://canvas.sfu.ca/courses/56304/gradebook)  
-[fa icon="list-ul"][Syllabus](https://canvas.sfu.ca/courses/56304/assignments/syllabus)  
+[fa="calendar"][/fa][Calendar](https://canvas.sfu.ca/calendar)  
+[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/56304/assignments)  
+[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/56304/discussion_topics)   
+[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/56304/files)   
+[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/56304/gradebook)  
+[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/56304/assignments/syllabus)  
 
 <hr>
 

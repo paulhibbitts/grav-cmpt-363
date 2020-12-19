@@ -23,18 +23,18 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-03)  
 
 ### Assignments
-[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/553598) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20210208T2359"]  
+[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/56304/assignments/553598) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20210208T2359"][/badge]    
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-03-1)  
 [plugin:page-inject](../../weekly-readings/week-03-2)  
 
 ### BlackBoard Collaborate Session Slides
-[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"[/googleslides]
 
-[Week 3 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa icon="bars"]menu)
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"]
+[Week 3 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000"[/googleslides]
 
 ### Supplemental Materials  
 [The 10 Usability Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)  
