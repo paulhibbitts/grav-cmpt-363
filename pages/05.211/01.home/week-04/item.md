@@ -13,13 +13,13 @@ hide_git_sync_repo_link: true
 ## Special topic — heuristic evaluations
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-04-1)  
+[plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-04-1)  
 
 ### Weekly Quiz
 No weekly review quiz.  
 
 ### Required Readings  
-[plugin:page-inject](../../weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
 [Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)

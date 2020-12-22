@@ -9,14 +9,14 @@ hide_git_sync_repo_link: false
 
 ## What’s Happening First Week 💫
 
-### Online Sessions
+### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/56304/external_tools/3544)  
 
-*   [plugin:page-inject](../../online-sessions/week-01-1)
-*   [plugin:page-inject](../../online-sessions/week-01-2)
+*   [plugin:page-inject](/211/online-sessions/week-01-1)
+*   [plugin:page-inject](/211/online-sessions/week-01-2)
 
 ### Required Readings & One-Minute Summaries
 
-*   [plugin:page-inject](../../lms-assignments/one-minute-summaries/week-01-1)
-*   [plugin:page-inject](../../lms-assignments/one-minute-summaries/week-01-2)
+*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-01-1)
+*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-01-2)
 
 [button label="Week 1 Review Quiz due Jan 17 (Practice)" url="http://canvas.sfu.ca" /]

@@ -11,8 +11,8 @@ continue_link: true
 
 ## What is usability and user experience design?
 
-[plugin:page-inject](../../weekly-readings/week-01-1?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-01-2?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-01-1?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-01-2?template=partials/embedlycardlinkonly)  
 
 ===
 
@@ -20,17 +20,17 @@ continue_link: true
 
 ### One-Minute Summaries and Questions  
 
-[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-01-1)  
-[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-01-2)  
+[plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-01-1)  
+[plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-01-2)  
 
 ### Weekly Quiz
 
-[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-02)
+[plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-02)
 
 ### Required Readings  
 
-[plugin:page-inject](../../weekly-readings/week-01-1)  
-[plugin:page-inject](../../weekly-readings/week-01-2)  
+[plugin:page-inject](/211/weekly-readings/week-01-1)  
+[plugin:page-inject](/211/weekly-readings/week-01-2)  
 
 [pdf]https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf[/pdf]
 
@@ -54,12 +54,12 @@ continue_link: true
 
 ### Supplemental Readings  
 
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/agile-ux)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/design-ethics)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/journey-mapping)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/lean-ux)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-the-practice-of-multidevice-interaction-design/problem-statements)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/scenario-based-design)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/usability)  
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-centered-design)   
-[plugin:content-inject](../../ux-techniques-guide/what-is-usability-and-user-experience-design/user-experience-design)
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/agile-ux)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/design-ethics)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/journey-mapping)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/lean-ux)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-the-practice-of-multidevice-interaction-design/problem-statements)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/scenario-based-design)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/usability)  
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/user-centered-design)   
+[plugin:content-inject](/211/ux-techniques-guide/what-is-usability-and-user-experience-design/user-experience-design)

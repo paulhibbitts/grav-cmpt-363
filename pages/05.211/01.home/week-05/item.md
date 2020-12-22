@@ -9,23 +9,23 @@ hide_git_sync_repo_link: true
 ## How to explore and communicate possible design solutions?
 
 ### Required Readings  
-[plugin:page-inject](../../weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
 
 ===
 
 ## **How to explore and communicate possible design solutions?**
 
 ### One-Minute Summaries and Questions  
-[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-05-1)  
-[plugin:page-inject](../../lms-assignments/one-minute-summaries/week-05-2)  
+[plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-05-1)  
+[plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-05-2)  
 
 ### Weekly Quiz
-[plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-05)  
+[plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-05)  
 
 ### Required Readings  
-[plugin:page-inject](../../weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
-[plugin:page-inject](../../weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/56304/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
@@ -45,7 +45,7 @@ Balsamiq Wireframes for Google Drive Overview
 [plugin:youtube](https://www.youtube.com/watch?v=l_jJMMY_QMQ)
 
 ### Supplemental Readings  
-[plugin:page-inject](../../ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/brainstorming)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/prototyping)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/scenarios)  
-[plugin:page-inject](../../ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/storyboards)  
+[plugin:page-inject](/211/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/brainstorming)  
+[plugin:page-inject](/211/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/prototyping)  
+[plugin:page-inject](/211/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/scenarios)  
+[plugin:page-inject](/211/ux-techniques-guide/how-to-explore-and-describe-possible-design-solutions/storyboards)  
