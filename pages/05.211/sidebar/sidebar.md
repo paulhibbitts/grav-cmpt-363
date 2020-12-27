@@ -12,18 +12,18 @@ Paul Hibbitts
 [fa="twitter"][/fa][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  
-[fa icon="bullhorn"][Anonymous Course Feedback](https://www.surveymonkey.ca/r/WD9D6HJ)  
+[fa="bullhorn"][/fa][Anonymous Course Feedback](https://www.surveymonkey.ca/r/WD9D6HJ)  
 
 Teaching Assistants  
 TBD
 
 ## Canvas LMS Tools
 [fa="calendar"][/fa][Calendar](https://canvas.sfu.ca/calendar)  
-[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/56304/assignments)  
-[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/56304/discussion_topics)   
-[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/56304/files)   
-[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/56304/gradebook)  
-[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/56304/assignments/syllabus)  
+[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/59869/assignments)  
+[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/59869/discussion_topics)   
+[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/59869/files)   
+[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/59869/gradebook)  
+[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/59869/assignments/syllabus)  
 
 <hr>
 

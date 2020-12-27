@@ -9,7 +9,7 @@ published: true
 
 [showifembedded]
 Chat 1-on-1 Office Hours  
-[Contact Paul](https://canvas.sfu.ca/courses/56304/external_tools/14724) here in Canvas or [CSSS Discord](https://t.co/GZQUc6iVjS):   
+[Contact Paul](https://canvas.sfu.ca/courses/59869/external_tools/21638) here in Canvas or [CSSS Discord](https://t.co/GZQUc6iVjS):   
 Mondays 12:00-12:30pm PST  
 Thursdays 12:00-12:30pm PST  
 [/showifembedded]
