@@ -3,7 +3,9 @@ title: Schedule
 published: true
 hide_git_sync_repo_link: true
 anchors:
-    active:  '{{ not grav.uri.param(''embedded'') }}'
+    active: '{{ not grav.uri.param(''embedded'') }}'
+hide_page_title: false
+show_sidebar: true
 ---
 
 ## [[fa="calendar-o"][/fa]Week 1 (Jan 11 - 17)](../home/week-01)
@@ -28,7 +30,7 @@ anchors:
 
 ## [[fa="calendar-o"][/fa]Week 3 (Jan 25 - 31)](../home/week-03)
 **How to conduct a user interface inspection?**   
-[fa="pencil"][/fa][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20210208T2359"]  
+[fa="pencil"][/fa][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256"][/badge]  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-2)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-3)  

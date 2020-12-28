@@ -2,7 +2,7 @@
 title: Resources
 published: true
 anchors:
-    active:  '{{ not grav.uri.param(''embedded'') }}'
+    active: '{{ not grav.uri.param(''embedded'') }}'
 ---
 
 ## Adobe XD
