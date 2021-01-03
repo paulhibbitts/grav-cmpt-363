@@ -121,6 +121,6 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 ## [fa="calendar-o"][/fa]Week 14 (Apr 12 - 16)  
 **Course Wrap-up**    
 
-## [fa="calendar-o"][/fa]Week 14 (Apr 12 - 16)  
+## [fa icon="calendar-o"]Final Exam  
 **Online Final Exam**   
 TBD
