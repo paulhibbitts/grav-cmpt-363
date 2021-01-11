@@ -62,7 +62,7 @@ show_sidebar: true
 ## [[fa="calendar-o"][/fa]Week 7 (Feb 22 - 28)](../home/week-07)
 **How to understand and communicate people's needs and behaviors?**   
 [fa="pencil"][/fa][Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=20210315T2359&p1=256"][/badge]  
-[fa="folder"][/fa][Team Member Evaluation](https://www.surveymonkey.ca/r/JCPFVQY) [badge label="Tue Mar 16th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210316T235900&p1=256"][/badge]  
+[fa="folder"][/fa][Team Member Evaluation](https://www.surveymonkey.ca/r/WFTBBDX) [badge label="Tue Mar 16th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210316T235900&p1=256"][/badge]  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-07-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-07-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  

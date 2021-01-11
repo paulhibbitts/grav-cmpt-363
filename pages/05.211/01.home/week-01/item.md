@@ -34,12 +34,10 @@ continue_link: true
 
 ### BlackBoard Collaborate Session Slides
 
-[The Process of UX Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
-
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
-
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))

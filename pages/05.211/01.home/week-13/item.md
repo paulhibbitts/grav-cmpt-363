@@ -28,8 +28,8 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](/211/weekly-readings/week-13-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[Usability Testing — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Usability Testing — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTKpy7bKKyy7ogZr2zxifVZFWyeCsKBRIwaVrq90XwTQICuQWTvBdtHj_CUKJ_itZHkH9qCJDS4zUsa/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vTKpy7bKKyy7ogZr2zxifVZFWyeCsKBRIwaVrq90XwTQICuQWTvBdtHj_CUKJ_itZHkH9qCJDS4zUsa/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 [Week 13 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
