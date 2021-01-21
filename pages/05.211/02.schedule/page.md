@@ -20,8 +20,7 @@ show_sidebar: true
 ## [[fa="calendar-o"][/fa]Week 2 (Jan 18 - 24)](../home/week-02)
 **What is the practice of multi-device interaction design?**   
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-1)  
-[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-2)  
-[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-3)  
+[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-2)   
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-3?template=partials/embedlycardlinkonly)  
@@ -33,7 +32,6 @@ show_sidebar: true
 [fa="pencil"][/fa][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256"][/badge]  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-2)  
-[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-3)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-2?template=partials/embedlycardlinkonly)   
 [fa="keyboard-o"][/fa][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 28th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20210128T235900&p1=256"][/badge]   

@@ -29,7 +29,7 @@ TBD
 [plugin:page-inject](/211/weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Readings  
