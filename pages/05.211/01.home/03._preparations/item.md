@@ -1,5 +1,5 @@
 ---
-title: 'Preparations'
+title: Preparations
 published: true
 header_image: true
 header_image_file: /211/home/week-08
