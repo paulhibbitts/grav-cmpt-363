@@ -2,7 +2,7 @@
 title: 'Week 10 (Mar 15 - 21)'
 published: true
 date: '15-03-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -18,10 +18,10 @@ hide_git_sync_repo_link: true
 
 ### Assignments
 Due  
-[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20210315T2359"][/badge]   
+[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20210315T2359"][/badge]   
 
 New  
-[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
+[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
 
 ### One-Minute Summaries and Questions  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-10-1)  
