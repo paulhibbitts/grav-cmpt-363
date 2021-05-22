@@ -1,11 +1,9 @@
 ---
 title: 'Regular Office Hours'
-published: true
+published: false
 ---
 
 ## Online Office (Student) Hours 🏫
-
-**Office hours will be held this Wednesday (Mar 17th) instead of Thursday.**
 
 [columns]
 

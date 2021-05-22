@@ -9,21 +9,6 @@ hide_git_sync_repo_link: false
 
 ## What’s Happening This Week 💫
 
-### What are the essentials of visual interface design?
+### Important Reminders
 
-#### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/59869/external_tools/3544)  
-
-*   [plugin:page-inject](/211/online-sessions/week-10-1)
-*   [plugin:page-inject](/211/online-sessions/week-10-2)
-
-#### Important Reminders
-
-*   [Team Member Evaluation](https://www.surveymonkey.ca/r/WFTBBDX) [badge label="Tue Mar 16th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210316T235900&p1=256" /]
-*   [Group Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Mon Apr 5th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Interactive+Prototype+Due+Date&iso=20210405T2359&p1=256"][/badge]
-
-#### Required Readings & One-Minute Summaries
-
-*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-10-1)
-*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-10-2)
-
-[button label="Week 10 Review Quiz due Mar 21" url="https://canvas.sfu.ca/courses/59869/assignments/583043" /]
+* [Online Final Exam](https://canvas.sfu.ca/courses/59869/quizzes) [badge label="Thu Apr 22nd 3:30pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20210422T153000&p1=256" target="_top"]  
